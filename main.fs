@@ -12,5 +12,5 @@ Node.require.Invoke("core-js") |> ignore
 
 
 
-ReactDom.render(R.text[][unbox "hello world"], Browser.document.getElementById "content")
+ReactDom.render(R.text[][unbox "hello worldies!!"], Browser.document.getElementById "content")
 |> ignore
