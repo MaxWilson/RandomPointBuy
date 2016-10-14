@@ -1,0 +1,15 @@
+{
+  "name": "randompointbuy",
+  "version": "0.1.0",
+  "description": "Generate a 5e character who is both point-buy legal and rolled in-order",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dnd",
+    "chargen"
+  ],
+  "author": "Max Wilson",
+  "license": "ISC"
+}
