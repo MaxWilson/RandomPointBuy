@@ -11,5 +11,11 @@
     "chargen"
   ],
   "author": "Max Wilson",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "fable-compiler": "^0.6.15",
+    "fable-import-react": "^0.5.2",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
 }
