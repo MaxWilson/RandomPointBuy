@@ -13,8 +13,12 @@
   "author": "Max Wilson",
   "license": "ISC",
   "devDependencies": {
+    "core-js": "^2.4.1",
     "fable-compiler": "^0.6.15",
+    "fable-core": "^0.6.9",
+    "fable-import-express": "0.0.11",
     "fable-import-react": "^0.5.2",
+    "marked": "^0.3.6",
     "react": "^15.3.2",
     "react-dom": "^15.3.2"
   }

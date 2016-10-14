@@ -1,0 +1,15 @@
+{
+  "module": "commonjs",
+  "sourceMaps": true,
+  "projFile": "RandomPointBuy.fsproj",
+  "outDir": "temp",
+  "scripts": {
+  },
+  "targets": {
+    "prod": {
+      "scripts": {
+      },
+      "production": true
+    }
+  }
+}
